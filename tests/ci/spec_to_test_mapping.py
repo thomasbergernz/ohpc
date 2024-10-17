@@ -224,6 +224,11 @@ test_map = {
         '',
         'singularity-ce'
     ],
+    'components/admin/lmod/SPECS/lmod.spec': [
+        '',
+        'lmod',
+        ''
+    ],
 }
 
 skip_ci_specs = []
