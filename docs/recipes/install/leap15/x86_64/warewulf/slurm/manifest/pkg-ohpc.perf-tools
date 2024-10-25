@@ -50,6 +50,7 @@ likwid-gnu9-ohpc 5.0.1 https://github.com/RRZE-HPC/likwid ohpc/perf-tools Perfor
 likwid-gnu12-ohpc 5.2.2 https://github.com/RRZE-HPC/likwid ohpc/perf-tools Performance tools for the Linux console
 likwid-intel-ohpc 5.2.2 https://github.com/RRZE-HPC/likwid ohpc/perf-tools Performance tools for the Linux console
 msr-safe-ohpc 1.6.0 https://github.com/LLNL/msr-safe ohpc/perf-tools Allows safer access to model specific registers (MSRs)
+msr-safe-ohpc-kmp-default 1.6.0_k5.3.18_57 https://github.com/LLNL/msr-safe ohpc/perf-tools Allows safer access to model specific registers (MSRs)
 omb-gnu9-impi-ohpc 5.8 http://mvapich.cse.ohio-state.edu/benchmarks/ ohpc/perf-tools OSU Micro-benchmarks
 omb-gnu9-mpich-ohpc 5.8 http://mvapich.cse.ohio-state.edu/benchmarks/ ohpc/perf-tools OSU Micro-benchmarks
 omb-gnu9-mvapich2-ohpc 5.8 http://mvapich.cse.ohio-state.edu/benchmarks/ ohpc/perf-tools OSU Micro-benchmarks
